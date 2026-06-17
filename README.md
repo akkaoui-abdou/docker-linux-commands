@@ -1,4 +1,4 @@
-````markdown
+
 # Commandes Linux les Plus Utilisées
 
 ## 📁 Navigation dans le système de fichiers
@@ -442,6 +442,6 @@ ls --help
 
 **Auteur :** Votre guide Linux  
 **Version :** 1.0
-````
+
 
 Ce README est prêt à être utilisé sur GitHub, GitLab ou dans votre documentation de formation Linux.
