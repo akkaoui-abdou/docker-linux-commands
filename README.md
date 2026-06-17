@@ -1,5 +1,3 @@
-Voici le contenu au format **README.md** que tu peux copier directement dans un fichier `README.md` :
-
 ````markdown
 # Commandes Linux les Plus Utilisées
 
